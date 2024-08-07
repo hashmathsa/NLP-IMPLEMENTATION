@@ -3,7 +3,7 @@
 The goal of this project is to build machine learning models capable of classifying emotions in text samples. This involves several key stages: loading and preprocessing the dataset, feature extraction, model development, and model comparison.
 
 #### Dataset
-The dataset used for this project is the Emotion dataset, which can be accessed here [Emotion dataset](#).
+The dataset used for this project is the Emotion dataset, which can be accessed here [Emotion dataset](https://drive.google.com/file/d/1HWczIICsMpaL8EJyu48ZvRFcXx3_pcnb/view?usp=drive_link)
 
 ### Key Components
 
